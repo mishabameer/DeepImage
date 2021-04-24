@@ -63,12 +63,3 @@ you will be provided an URL through which you can connect to the Jupyter noteboo
 To run it using Google Colab, click [here](https://colab.research.google.com/github/DmitryUlyanov/deep-image-prior) and select the notebook to run. Remember to uncomment the first cell to clone the repository into colab's environment.
 
 
-# Citation
-```
-@article{UlyanovVL17,
-    author    = {Ulyanov, Dmitry and Vedaldi, Andrea and Lempitsky, Victor},
-    title     = {Deep Image Prior},
-    journal   = {arXiv:1711.10925},
-    year      = {2017}
-}
-```
